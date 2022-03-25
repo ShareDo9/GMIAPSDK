@@ -1,0 +1,2 @@
+# GMIAPSDK
+苹果内购支付SDK
